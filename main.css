@@ -332,7 +332,14 @@ mark{
 	height:30px;
 	background-color:#3D9970;
 	border-radius:20px;
-	cursor:pointer
+	cursor:pointer;
+	padding: 15px;
+	padding-top: 5px;
+	color:white;
+	font-size: 14px
+}
+.button-details:hover{
+	box-shadow: 3px 3px #888888;
 }
 
 ul.icons a:hover{background:rgba(255,0,0,0.025)}
