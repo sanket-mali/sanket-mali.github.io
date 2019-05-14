@@ -329,6 +329,7 @@ mark{
 
 .button-details{
 	width:15%;
+	min-width: 50px;
 	height:30px;
 	background-color:#3D9970;
 	border-radius:20px;
