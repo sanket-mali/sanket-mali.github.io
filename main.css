@@ -406,13 +406,13 @@ ul.icons a{
 	.into-text-1{margin-top:20px}
 }
 hr{margin:0;}
-.projects-container,.experience-container,.education-container,.more-container,.intro-container,.header-container{
+.projects-container,.experience-container,.education-container,.more-container,.intro-container,.header-container,.skill-container{
 	-webkit-box-shadow: 0 8px 6px -4px #DDD;
 	-moz-box-shadow: 0 8px 6px -4px #DDD;
 	box-shadow: 0 8px 6px -4px #DDD;}
-.projects-container,.experience-container,.education-container,.more-container,.intro-container{width:100%;padding:0}
-.projects-container h3,.experience-container h3,.education-container h3, .intro-container h3, .more-container h3{margin-bottom:10px;margin-top:8px;padding:0px}
-.experience,.education,.project,.intro,.extra{margin-top:2em;padding-left:5%;padding-right:5%;width:100%;padding-bottom:3%}
+.projects-container,.experience-container,.education-container,.more-container,.intro-container,.skill-container{width:100%;padding:0}
+.projects-container h3,.experience-container h3,.education-container h3, .intro-container h3, .more-container h3,.skill-container h3{margin-bottom:10px;margin-top:8px;padding:0px}
+.experience,.education,.project,.intro,.extra,.skill{margin-top:2em;padding-left:5%;padding-right:5%;width:100%;padding-bottom:3%}
 .experience .left-column,.education .left-column,.project .left-column{text-align:left}
 .experience .left-column p,.education .left-column p,.project .left-column p{margin-bottom:3px;font-size:1.6em;text-align:inherit;font-weight:300}
 .experience .left-column p b,.education .left-column p b,.project .left-column p b{font-weight:500}@media screen and (max-width: 768px){.experience .left-column,.education .left-column,.project .left-column{text-align:center}.experience .left-column p,.education .left-column p,.project .left-column p{text-align:center}
@@ -427,6 +427,13 @@ hr{margin:0;}
 .experience .left-column h4,.education .left-column h4,.project .left-column h4{margin-bottom:0.4em;font-weight:500}
 @media print{.experience .left-column h4,.education .left-column h4,.project .left-column h4{margin-bottom:0.2em}}
 .experience .left-column h4 a,.education .left-column h4 a,.project .left-column h4 a{font-weight:500}
+.skill p {padding: 0px;margin: 0px}
+.uline1{width: 20%;margin-left:40%;border-top: 3px solid #5bbe91}
+.uline2{width: 20%;margin-left:40%;border-top: 3px solid #41a478}
+.uline3{width: 20%;margin-left:40%;border-top: 3px solid #3d9970}
+.uline4{width: 20%;margin-left:40%;border-top: 3px solid #33805d}
+.uline5{width: 20%;margin-left:40%;border-top: 3px solid #245b42}
+.uline6{width: 20%;margin-left:40%;border-top: 3px solid #163728}
 .footer-container{background:#111111;color:#DDDDDD;padding-bottom:1px;}
 .footer-container p{
 	text-align:center;
