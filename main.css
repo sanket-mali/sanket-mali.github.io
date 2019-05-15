@@ -337,10 +337,11 @@ mark{
 	padding: 15px;
 	padding-top: 5px;
 	color:white;
-	font-size: 14px
+	font-size: 14px;
+	box-shadow: 4px 4px 10px #AAAAAA;
 }
 .button-details:hover{
-	box-shadow: 3px 3px #888888;
+	box-shadow: 8px 8px 10px #AAAAAA;
 }
 
 ul.icons a:hover{background:rgba(255,0,0,0.025)}
