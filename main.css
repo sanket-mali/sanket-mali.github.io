@@ -405,24 +405,20 @@ ul.icons a{
 }
 
 .lang-img{
-	/*width:200px;
-	height:200px;*/
+	width:50px;
+	height:60px;
 	margin:0 auto;
-	margin-bottom:0px;
-	margin-left: 0px;
+	margin-bottom:20px;
 	display:block;
-	width: 20%;
-	/*border-radius:100px;*/
 	background-size:cover;
 	background-position:center;
-	background-repeat:repeat, no-repeat;
-	/*-moz-box-shadow:inset 0 0 20px #636161;
-	-webkit-box-shadow:inset 0 0 20px #636161;
-	box-shadow:inset 0 0 20px #636161*/
 }
+/*.lang-img img{
+	width: 20%;
+}*/
 
 @media screen and (max-width: 768px){
-	.lang-img {width:10%;}
+	.lang-img {width:30px;height: 40px}
 }
 
 .into-text-1{margin-top:30px}
@@ -458,6 +454,7 @@ hr{margin:0;}
 .uline4{width: 20%;margin-left:40%;border-top: 3px solid #33805d}
 .uline5{width: 20%;margin-left:40%;border-top: 3px solid #245b42}
 .uline6{width: 20%;margin-left:40%;border-top: 3px solid #163728}
+.uline{width: 4%;margin-left:48%;border-top: 3px solid #b3b3b3}
 .footer-container{background:#111111;color:#DDDDDD;padding-bottom:1px;}
 .footer-container p{
 	text-align:center;
