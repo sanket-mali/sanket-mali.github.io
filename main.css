@@ -406,7 +406,7 @@ ul.icons a{
 
 .lang-img{
 	width:66px;
-	height:73px;
+	height:70px;
 	margin:0 auto;
 	margin-bottom:20px;
 	display:block;
@@ -418,7 +418,7 @@ ul.icons a{
 }*/
 
 @media screen and (max-width: 768px){
-	.lang-img {width:40px;height: 50px}
+	.lang-img {width:66px;height: 70px}
 }
 
 .into-text-1{margin-top:30px}
