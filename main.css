@@ -432,7 +432,7 @@ hr{margin:0;}
 	box-shadow: 0 8px 6px -4px #DDD;}
 .projects-container,.experience-container,.education-container,.more-container,.intro-container,.skill-container{width:100%;padding:0}
 .projects-container h3,.experience-container h3,.education-container h3, .intro-container h3, .more-container h3,.skill-container h3{margin-bottom:10px;margin-top:8px;padding:0px}
-.experience,.education,.project,.intro,.extra,.skill{margin-top:2em;padding-left:5%;padding-right:5%;width:100%;padding-bottom:3%}
+.experience,.education,.project,.intro,.extra,.skill{margin-top:2em;padding-left:5%;padding-right:0%;width:100%;padding-bottom:3%}
 .experience .left-column,.education .left-column,.project .left-column{text-align:left}
 .experience .left-column p,.education .left-column p,.project .left-column p{margin-bottom:3px;font-size:1.6em;text-align:inherit;font-weight:300}
 .experience .left-column p b,.education .left-column p b,.project .left-column p b{font-weight:500}@media screen and (max-width: 768px){.experience .left-column,.education .left-column,.project .left-column{text-align:center}.experience .left-column p,.education .left-column p,.project .left-column p{text-align:center}
