@@ -460,6 +460,16 @@ hr{margin:0;}
 .smallproject p {
 	padding-top:1%;
 }
+@media only screen and (max-width: 768px)
+{
+	.smallproject img{
+		width: 10%;
+		margin-left:1%; 
+	}
+	.smallproject h4{
+	margin-left: 1%;
+}
+}
 .experience .left-column .fa,.education .left-column .fa,.project .left-column .fa{font-size:2em}
 .experience .left-column .project-link,.education .left-column .project-link,.project .left-column .project-link{font-size:1.5em}
 .experience .left-column h4,.education .left-column h4,.project .left-column h4{margin-bottom:0.4em;font-weight:500}
