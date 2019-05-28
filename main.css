@@ -468,7 +468,10 @@ hr{margin:0;}
 	}
 	.smallproject h4{
 	margin-left: 1%;
-}
+	}
+	.smallproject p {
+	padding-left:2%;
+	}
 }
 .experience .left-column .fa,.education .left-column .fa,.project .left-column .fa{font-size:2em}
 .experience .left-column .project-link,.education .left-column .project-link,.project .left-column .project-link{font-size:1.5em}
