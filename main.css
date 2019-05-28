@@ -446,6 +446,20 @@ hr{margin:0;}
 	font-style:italic;
 	font-weight:300
 }
+.smallproject{
+	padding-top: 1%;
+}
+.smallproject h4{
+	font-size: 2em;
+	margin-left: 3%;
+}
+.smallproject img {
+	width:40%;
+	margin-left: 5%;
+}
+.smallproject p {
+	padding-top:1%;
+}
 .experience .left-column .fa,.education .left-column .fa,.project .left-column .fa{font-size:2em}
 .experience .left-column .project-link,.education .left-column .project-link,.project .left-column .project-link{font-size:1.5em}
 .experience .left-column h4,.education .left-column h4,.project .left-column h4{margin-bottom:0.4em;font-weight:500}
