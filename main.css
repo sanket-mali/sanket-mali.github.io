@@ -343,6 +343,9 @@ mark{
 .button-details:hover{
 	box-shadow: 8px 8px 10px #AAAAAA;
 }
+@media screen and (max-width: 768px){
+	.button-details{margin-left: 3%}
+}
 
 ul.icons a:hover{background:rgba(255,0,0,0.025)}
 ul.icons li{
